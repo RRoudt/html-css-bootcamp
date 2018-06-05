@@ -1,0 +1,42 @@
+html {
+	background-color: dodgerblue;
+}
+
+body {
+	width: 60%;
+	height: inherit;
+	margin: 0 auto;
+	padding: 20px;
+	border: 10px solid black;
+	background-color: lightgreen;
+}
+
+section {
+	margin: 20px 0;
+}
+
+img {
+	display: block;
+	margin: 20px auto;
+	border: 20px groove orange;
+	border-radius: 50%;
+}
+
+h1 {
+	font-family: "Bitstream Vera Sans Mono", sans-serif;
+	font-size: 24px;
+	color: dodgerblue;
+	padding: 10px 0;
+}
+
+h2 {
+	font-family: "Bitstream Vera Sans Mono", sans-serif;
+	font-size: 20px;
+	color: tomato;
+	padding: 10px 0;
+}
+
+p {
+	padding: 10px 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
